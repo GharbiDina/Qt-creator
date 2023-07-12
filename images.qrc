@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/back.png</file>
+        <file>img/home.png</file>
+        <file>img/menu.png</file>
+        <file>img/user.png</file>
+        <file>img/calendrier.png</file>
+        <file>img/lecture.png</file>
+        <file>img/notepad.png</file>
+        <file>img/notification.png</file>
+        <file>img/togglapp.png</file>
+        <file>img/chat.png</file>
+        <file>img/info.png</file>
+        <file>img/logo.png</file>
+        <file>img/back2.png</file>
+        <file>img/employe.png</file>
+        <file>img/events.png</file>
+        <file>img/microscope.png</file>
+        <file>img/projects.png</file>
+        <file>img/sponsor.png</file>
+        <file>img/materiels.png</file>
+    </qresource>
+</RCC>
